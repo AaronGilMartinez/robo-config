@@ -15,7 +15,7 @@
   "require-dev": {
     "drupal/coder": "^8.3.16",
     "phpunit/phpunit": "^9.5.5",
-    "phpro/grumphp": "^1.14 || ^2.6"
+    "phpro/grumphp": "^1.14 || ^2.3"
   },
   "autoload": {
     "psr-4": {
